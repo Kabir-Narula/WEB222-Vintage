@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <!-- Change this to your name-->
+  <meta name="author" content="Your Name" />
+  <title>R&B music</title>
+  <link rel="stylesheet" href="app.css">
+  <link href="https://fonts.cdnfonts.com/css/pretty-aesthetic" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Shadows+Into+Light&display=swap" rel="stylesheet">
+                
+</head>
+
+<body>
+
+  <header>
+    <!-- Change this to your App's info -->
+    <h1>R&B Chill</h1>
+    <p>Music is easier to listen than people </p>
+  </header>
+
+  <nav id="menu">
+    <!-- Dynamically create your menu buttons here (1 for each artist) -->
+  </nav>
+
+  <main>
+    <h2 id="selected-artist">
+      <!-- Dynamically update using the selected artist's information (name & links) -->
+    </h2>
+
+    <div id="card-container">Music</div>
+
+    <!-- Dynamically update the cards to show 1 card per song for the selected artist-->
+    <form action="" id="hidden">
+      <h2>Edit Songs</h2>
+      <input type="text" id="songID" name="songID" placeholder=" song id">
+      <input type="text" id="artistID" name="artistID" placeholder="artist id">  
+      <br>
+
+      <label for="song-title">Song title</label>
+      <br>
+      <input id="title" type="text" name="song-title" placeholder="Enter Song Name" autocomplete="off" onchange="showSongForm()">
+      <br>
+      <br>
+      <label for="year">Year</label>
+      <br>
+      <input id="year" type="text" name="year" placeholder="Enter The Year" autocomplete="off">
+      <br>
+      <br>
+      <label for="duration">Duration</label>
+      <br>
+      <input id="duration" type="text" name="duration" placeholder="Enter The Duration of The Song" autocomplete="off">
+      <br><br>
+      <input type="submit" name="submit" id="submit-button" value="Make Changes">
+
+    </form>
+  </main>
+
+  <!-- JavaScript Data Files -->
+  <script src="artists.js"></script>
+  <script src="songs.js"></script>
+
+  <!-- Main App JavaScript File -->
+  <script src="app.js"></script>
+</body>
+
+</html>
