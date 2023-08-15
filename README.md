@@ -38,4 +38,9 @@ The CSS applied to RB MusicWebpage complements the design and functionality in a
 * Song Cards Styling: Song cards exhibit a nostalgic charm, reminiscent of trading cards and classic album covers. Subtle shadows, responsive animations, and carefully chosen colors create an immersive browsing experience.
 
 # Academic Integrity Statement
-Please note that this project adheres to the principles of academic integrity. Any external resources used for inspiration or guidance have been appropriately cited, and the code has been developed independently as part of the Web 222 final assignment.
+
+
+
+I hereby declare that the work presented in this RB MusicWebpage project, submitted for the Web 222 final assignment at Seneca College, is my own. I have not used any unauthorized sources, materials, or assistance in completing this project, and all external resources, if any, have been duly acknowledged and referenced. The code, design, and content presented in this project are a true representation of my own efforts and understanding of the course material.
+
+I understand the importance of upholding the principles of academic integrity and the ethical standards expected by Seneca College. Any instances of collaboration, inspiration, or guidance from external sources have been appropriately documented. I am fully aware of the consequences of academic misconduct, and I am committed to maintaining the highest level of academic honesty and integrity throughout my studies at Seneca College.
