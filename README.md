@@ -23,7 +23,7 @@ Subtle Animations: Elements such as song cards and album images respond to user 
 # JavaScript Functionality
 RB MusicWebpage is not just about aesthetics; it's also about dynamic content and interactive exploration. The JavaScript functionality brings life to the webpage:
 
-Artist Menu: The dynamic artist menu is generated using the buildMenu() function. It populates clickable artist names based on the "artists" array, allowing users to easily navigate through the music categories.
+## Artist Menu: The dynamic artist menu is generated using the buildMenu() function. It populates clickable artist names based on the "artists" array, allowing users to easily navigate through the music categories.
 
 Selected Artist Display: The showSelectedArtist(artistID) function dynamically displays the artist's information and links when an artist is clicked. This feature enhances the user experience by providing insights into the artist's background.
 
