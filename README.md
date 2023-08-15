@@ -10,9 +10,9 @@ The design of RB MusicWebpage is a harmonious fusion of vintage aesthetics and m
 Vintage CSS Elements
 The design is rich with carefully crafted vintage CSS elements:
 
-Color Palette: Muted earthy tones and warm hues evoke a sense of nostalgia, while subtle gradients add depth and elegance.
+#1 Color Palette: Muted earthy tones and warm hues evoke a sense of nostalgia, while subtle gradients add depth and elegance.
 
-Typography: The choice of fonts, such as "Shadows Into Light" and "Courier New," imparts a handwritten and typewriter-inspired feel, amplifying the vintage charm.
+#2 Typography: The choice of fonts, such as "Shadows Into Light" and "Courier New," imparts a handwritten and typewriter-inspired feel, amplifying the vintage charm.
 
 Card Layout: The song "cards" embrace the essence of trading cards and vintage imagery. Each card is meticulously styled with borders, padding, and background colors reminiscent of classic album covers.
 
