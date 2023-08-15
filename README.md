@@ -10,20 +10,20 @@ The design of RB MusicWebpage is a harmonious fusion of vintage aesthetics and m
 Vintage CSS Elements
 The design is rich with carefully crafted vintage CSS elements:
 
-#1 Color Palette: Muted earthy tones and warm hues evoke a sense of nostalgia, while subtle gradients add depth and elegance.
+## Color Palette: Muted earthy tones and warm hues evoke a sense of nostalgia, while subtle gradients add depth and elegance.
 
-#2 Typography: The choice of fonts, such as "Shadows Into Light" and "Courier New," imparts a handwritten and typewriter-inspired feel, amplifying the vintage charm.
+## Typography: The choice of fonts, such as "Shadows Into Light" and "Courier New," imparts a handwritten and typewriter-inspired feel, amplifying the vintage charm.
 
-Card Layout: The song "cards" embrace the essence of trading cards and vintage imagery. Each card is meticulously styled with borders, padding, and background colors reminiscent of classic album covers.
+## Card Layout: The song "cards" embrace the essence of trading cards and vintage imagery. Each card is meticulously styled with borders, padding, and background colors reminiscent of classic album covers.
 
-Album Images: Album images are integrated with a blend of nostalgic and modern styles, featuring a subtle yet captivating transformation upon hover.
+## Album Images: Album images are integrated with a blend of nostalgic and modern styles, featuring a subtle yet captivating transformation upon hover.
 
-Subtle Animations: Elements such as song cards and album images respond to user interactions with gentle hover animations, reminiscent of flipping through vinyl records.
+## Subtle Animations: Elements such as song cards and album images respond to user interactions with gentle hover animations, reminiscent of flipping through vinyl records.
 
 # JavaScript Functionality
 RB MusicWebpage is not just about aesthetics; it's also about dynamic content and interactive exploration. The JavaScript functionality brings life to the webpage:
 
-## Artist Menu: The dynamic artist menu is generated using the buildMenu() function. It populates clickable artist names based on the "artists" array, allowing users to easily navigate through the music categories.
+ Artist Menu: The dynamic artist menu is generated using the buildMenu() function. It populates clickable artist names based on the "artists" array, allowing users to easily navigate through the music categories.
 
 Selected Artist Display: The showSelectedArtist(artistID) function dynamically displays the artist's information and links when an artist is clicked. This feature enhances the user experience by providing insights into the artist's background.
 
