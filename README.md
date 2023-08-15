@@ -1,8 +1,7 @@
 
 # Project Overview:
-RB MusicWebpage is a simple yet stylish website designed to bring music enthusiasts closer to their favorite tunes. As part of my Web 222 final assignment, I wanted to create a platform that showcases my web development skills while catering to the musical interests of users.
-Features and Functionality
-RB MusicWebpage offers the following features:
+In this assignment, I created RB MusicWebpage to showcase R&B music artists like Keshi, Niki, and the 1975. I designed the webpage to have a vintage feel with modern touches, using colors and fonts that remind us of the past but still look cool today. The artist menu changes when you click on different artists, showing their names and links to their social media. When you click on an artist, you'll see "cards" with details about their songs, like the name, year, duration, and album image. It's like flipping through old records but on a website. I also added some special effects, like when you hover over a song card, it gets a little bigger and stands out. Overall, I wanted to make a webpage that lets you explore and enjoy R&B music in a fun and stylish way.
+
 
 # Design: Vintage Aesthetics and Modern Flourish
 The design of RB MusicWebpage is a harmonious fusion of vintage aesthetics and modern sensibilities. I aimed to capture the nostalgia of a bygone era while infusing it with contemporary design elements. The use of a vintage background pattern, reminiscent of ragged and aged paper, sets the tone for a journey into musical nostalgia.
