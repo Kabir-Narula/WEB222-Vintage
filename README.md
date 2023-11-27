@@ -50,8 +50,4 @@ The CSS applied to RB MusicWebpage harmonizes with the design and functionality:
 - **Navigation and Styling:** The navigation bar enables effortless artist exploration, with hover effects, custom fonts, and color transitions for an engaging experience.
 - **Song Cards Styling:** Nostalgic song cards, reminiscent of trading cards and classic albums, feature shadows, animations, and colors to create an immersive browsing environment.
 
-## Academic Integrity Statement
 
-I attest that the work presented in this RB MusicWebpage project, submitted for the Web 222 final assignment at Seneca College, is entirely my own. I have not utilized unauthorized sources, materials, or assistance in completing this project. Any external resources have been acknowledged and referenced appropriately. The code, design, and content in this project truly reflect my efforts and understanding of the course material.
-
-I recognize the significance of upholding academic integrity and ethical standards as expected by Seneca College. Any instances of collaboration, inspiration, or guidance from external sources are transparently documented. I am fully cognizant of the consequences of academic misconduct and pledge to uphold the highest levels of academic honesty and integrity throughout my tenure at Seneca College.
